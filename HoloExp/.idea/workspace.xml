@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87633855-4f63-46d3-b2b6-19079f979dc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fundamental_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamental_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exploration_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exploration_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Fundamental_14">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Exploration_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HoloExp" />
       <option name="INTERPRETER_OPTIONS" value="" />
